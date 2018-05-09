@@ -1,0 +1,6 @@
+difuse/*
+__pycache__/*
+testing/__pycache__/*
+local/*
+.vscode/
+.localstorage/
